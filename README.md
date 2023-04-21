@@ -1,4 +1,4 @@
-# CAN Bus Examples Using STM32-F429
+# CAN Bus Communication with STM32F429DISC
 
 This repository contains examples of using the STM32-F429DISC microcontroller to communicate over the Controller Area Network (CAN) bus. The examples cover both standard and extended identifier (ID) formats, filtering and multifiltering, message priority, and two projects that demonstrate the use of CAN bus communication with other peripherals.
 
