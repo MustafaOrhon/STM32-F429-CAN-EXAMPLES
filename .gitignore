@@ -1,0 +1,16 @@
+# build output
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+
+# IDE state
+.metadata/
+*.launch
